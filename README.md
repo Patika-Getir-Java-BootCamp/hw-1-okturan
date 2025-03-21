@@ -1,4 +1,4 @@
-## 1 – Why we need to use OOP? Some major OOP languages?
+## 1 – Why do we need to use OOP? Some major OOP languages?
 
 <details>
 <summary>Answer 1 ↓</summary>
